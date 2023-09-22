@@ -12,4 +12,4 @@ ENV PORT 80
 EXPOSE 80
 
 # Command to run the app
-CMD ["node", "server.js"]
+CMD ["node", "server.js"] 
